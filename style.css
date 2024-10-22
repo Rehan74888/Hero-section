@@ -1,5 +1,8 @@
 a{
     text-decoration: none;
+    display: inline-block;
+    height: 40px;
+    padding: 20px 15px 0px;
 }
 a:link{
     color: black;
